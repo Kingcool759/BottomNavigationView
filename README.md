@@ -1,0 +1,2 @@
+# BottomNavigationView
+一款常用的项目中使用的底部导航栏
